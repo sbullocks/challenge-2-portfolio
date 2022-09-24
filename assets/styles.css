@@ -1,0 +1,52 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+    box-sizing:border-box;
+}
+body{
+    font-family: sans-serif;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+header h1{
+    background-color: dimgray;
+}
+nav{
+    height: 80px;
+    width: 100%;
+}
+h1{
+    color: white;
+    font-size: 40px;
+    font-weight:60%;
+}
+.portfolio-name{
+line-height: 80px;
+}
+nav ul{
+    float:right;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 150px;
+    justify-content: flex-end;
+}
+nav ul li{
+    margin-left: 15px;
+}
+section h2{
+    border-right: 5px solid black;
+}
+#background-image{
+    background-image: url("./photo-1431274172761-fca41d930114.jpeg");
+    height: 200px;
+    background-size: cover;
+}
+#background-image h2{
+    background-color: bisque;
+    width: 225px;
+}
