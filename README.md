@@ -1,53 +1,45 @@
-# Horseion
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Portfolio
 
-## Description
+This is my portfolio. I am learning HTML, CSS, GitHub, and JavaScript.
 
-I don't have any
+* This will be used throughout my coding future.
+* I will continue to update this throughout my career. 
+* Am I learn more, I will revise this project. 
+
+## Navigation Bar
+
+This area has links to areas throughout the home page. The links are hyperlinked allowing you to click them for faster navigation. Instead of scrolling, you can click the link to the section you want to navigate to.
 
 ## Table of Contents 
 
-* [Installation](#installation)
-
-* [Usage](#usage)
+* [Navigation Bar](#navigation-bar)
 
 * [License](#license)
 
 * [Contributing](#contributing)
 
-* [Tests](#tests)
+* [Link](#link)
+   
+* [Screenshot](#screenshot)
 
 * [Questions](#questions)
-
-## Installation
-
-To install necessary dependencies, run the following command:
-
-```
-npm i
-```
-
-## Usage
-
-nothing
 
 ## License
 
 This project is licensed under the MIT license.
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   
 ## Contributing
 
-I don't know
+My coding class, [MDN](https://developer.mozilla.org/en-US/), [W3 Schools](https://www.w3schools.com/)..
 
-## Tests
+## Link
+Click [here](https://sbullocks.github.io/homework-challenge2/) to access the live website.
 
-To run tests, run the following command:
-
-```
-npm test
-```
+## Screenshot
+![Alt text](./assets/Images/Screenshot_of_site.png)
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at dizx@as.com. You can find more of my work at [dJain](https://github.com/dJain/).
-.
+If you have any questions about the repo, contact me directly at sbullocks@gmail.com. You can find more of my work at [sbullocks](https://github.com/sbullocks).
+
