@@ -6,10 +6,6 @@ This is my portfolio. I am learning HTML, CSS, GitHub, and JavaScript.
 * I will continue to update this throughout my career. 
 * Am I learn more, I will revise this project. 
 
-## Navigation Bar
-
-This area has links to areas throughout the home page. The links are hyperlinked allowing you to click them for faster navigation. Instead of scrolling, you can click the link to the section you want to navigate to.
-
 ## Table of Contents 
 
 * [Navigation Bar](#navigation-bar)
@@ -23,6 +19,10 @@ This area has links to areas throughout the home page. The links are hyperlinked
 * [Screenshot](#screenshot)
 
 * [Questions](#questions)
+
+## Navigation Bar
+
+This area has links to areas throughout the home page. The links are hyperlinked allowing you to click them for faster navigation. Instead of scrolling, you can click the link to the section you want to navigate to.
 
 ## License
 
