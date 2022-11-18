@@ -5,7 +5,7 @@ body {
 header {
   background-color: gray;
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   padding: 10px 0 10px 0;
 }
 
@@ -93,8 +93,8 @@ section div h2 {
 .image-section {
   width: 80%;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  /* flex-wrap: wrap; */
+  /* justify-content: space-between; */
 }
 
 /* figcaption {
@@ -135,7 +135,7 @@ figcaption {
   width: 80%;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  /* justify-content: space-between; */
 }
 
 .image-section2 {
@@ -154,6 +154,7 @@ figcaption {
   height: 300px;
   margin-bottom: 10px;
   /* position: relative; */
+  margin-right: 50px;
 }
 
 .main-project {
