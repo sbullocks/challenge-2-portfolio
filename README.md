@@ -34,7 +34,7 @@ This project is licensed under the MIT license.
 My coding class, [MDN](https://developer.mozilla.org/en-US/), [W3 Schools](https://www.w3schools.com/)..
 
 ## Link
-Click [here](https://sbullocks.github.io/homework-challenge2/) to access the live website.
+Click [here](https://sbullocks.github.io/challenge-2-portfolio/) to access the live website.
 
 ## Screenshot
 ![Alt text](./assets/Images/Screenshot_of_site.png)
